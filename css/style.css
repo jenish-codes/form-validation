@@ -54,6 +54,7 @@ body {
     font-size: 14px;
     padding: 10px;
     width: 100%;
+    outline-color: #999;
 }
 
 .form-control.success input{
@@ -66,7 +67,7 @@ body {
 
 .form-control i {
     position: absolute;
-    top: 40px;
+    top: 36px;
     right: 10px;
     visibility: hidden;
 }
@@ -95,7 +96,7 @@ body {
 
 .form button {
     background-color: #8e44ad;
-    border: 2px solid #8e44ad;
+    border: none;
     color: #fff;
     display: block;
     font-family: inherit;
